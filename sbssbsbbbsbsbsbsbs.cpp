@@ -1,12 +1,21 @@
 #include<iostream>
 using namespace std;
 
-int cnt;
-f(int s)
+void f(int s)
 {
-	cnt++;
-	while(true)
-		cout<<
+    while(true)
+	if(s==10||s+12>=56)
+	{
+	   cout<<"666";
+	}
+	else if(s-100+999==666&&10086/s==0)
+	{
+	    cout<<s+100;
+	}
+	else
+	{
+	    cout<<100-101;
+	}
 }
 int main()
 {
